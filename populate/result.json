@@ -1,0 +1,226 @@
+[
+  {
+    "id": "572a1524-2044-422e-8668-9bc6fadb5b0e",
+    "task": "MAC- DF2F & EKYC Stand up meeting",
+    "module": "Meeting",
+    "manhours": 1,
+    "crNo": "",
+    "date": "24-10-2023"
+  },
+  {
+    "id": "325008f0-c3ce-4839-9d0c-911485dbc921",
+    "task": "Sync progress of BGC v2 + plan ahead",
+    "module": "Meeting",
+    "manhours": 1,
+    "crNo": "",
+    "date": "25-10-2023"
+  },
+  {
+    "id": "0dc300c7-5b87-4e01-8954-171ca204cf7b",
+    "task": "MAC-Kick Off",
+    "module": "Meeting",
+    "manhours": 4,
+    "crNo": "",
+    "date": "30-10-2023"
+  },
+  {
+    "id": "9adaf634-dc37-480d-b427-d2a4fac6fde6",
+    "task": "MAC-Solution Design",
+    "module": "Meeting",
+    "manhours": 7,
+    "crNo": "",
+    "date": "31-10-2023"
+  },
+  {
+    "id": "8b0ec812-5fa9-4599-a955-03725d8b8c16",
+    "task": "MAC- DF2F & EKYC Stand up meeting",
+    "module": "Meeting",
+    "manhours": 1,
+    "crNo": "",
+    "date": "01-11-2023"
+  },
+  {
+    "id": "22300a4b-ca1a-4ab8-a6a3-0e97d51a59d9",
+    "task": "MAC- DF2F & EKYC Stand up meeting",
+    "module": "Meeting",
+    "manhours": 1,
+    "crNo": "",
+    "date": "02-11-2023"
+  },
+  {
+    "id": "e37291ab-d568-4ca3-ab14-a6faf6f269e1",
+    "task": "MAC- DF2F & EKYC Stand up meeting",
+    "module": "Meeting",
+    "manhours": 1,
+    "crNo": "",
+    "date": "03-11-2023"
+  },
+  {
+    "id": "2ece2070-39a3-4728-a2d7-f319abe203bd",
+    "task": "MAC- DF2F & EKYC Stand up meeting",
+    "module": "Meeting",
+    "manhours": 1,
+    "crNo": "",
+    "date": "06-11-2023"
+  },
+  {
+    "id": "e347374e-b509-45cd-ab7d-2e64174ab38f",
+    "task": "MAC- DF2F & EKYC Stand up meeting",
+    "module": "Meeting",
+    "manhours": 1,
+    "crNo": "",
+    "date": "07-11-2023"
+  },
+  {
+    "id": "4e07ac5b-490f-4571-b3d5-3969c066610c",
+    "task": "MAC- DF2F & EKYC Stand up meeting",
+    "module": "Meeting",
+    "manhours": 1,
+    "crNo": "",
+    "date": "08-11-2023"
+  },
+  {
+    "id": "0e96d308-b6b0-40aa-8f6c-6a276e52994e",
+    "task": "MAC- DF2F & EKYC Stand up meeting",
+    "module": "Meeting",
+    "manhours": 1,
+    "crNo": "",
+    "date": "09-11-2023"
+  },
+  {
+    "id": "28854fd7-f935-4269-b3b1-678caa68e919",
+    "task": "MAC- DF2F & EKYC Stand up meeting",
+    "module": "Meeting",
+    "manhours": 1,
+    "crNo": "",
+    "date": "10-11-2023"
+  },
+  {
+    "id": "c6c2d9ae-5317-49c9-a4bb-f81f4f3db6dc",
+    "date": "24-10-2023",
+    "manhours": 7,
+    "task": "EKYC Development",
+    "module": "MAC Developing",
+    "crNo": ""
+  },
+  {
+    "id": "f639535f-0de3-40d6-818f-aa3042c6137d",
+    "date": "25-10-2023",
+    "manhours": 7,
+    "task": "EKYC Development",
+    "module": "MAC Developing",
+    "crNo": ""
+  },
+  {
+    "id": "74e88d11-0de0-474e-b763-bb05a8b6969c",
+    "date": "26-10-2023",
+    "manhours": 8,
+    "task": "EKYC Development",
+    "module": "MAC Developing",
+    "crNo": ""
+  },
+  {
+    "id": "4c46dbef-9f30-4e37-bc12-efe2839401a4",
+    "date": "27-10-2023",
+    "manhours": 8,
+    "task": "EKYC Development",
+    "module": "MAC Developing",
+    "crNo": ""
+  },
+  {
+    "id": "9c9f6c5d-e80e-46ae-bbe1-2b4b954a0721",
+    "date": "30-10-2023",
+    "manhours": 4,
+    "task": "EKYC Development",
+    "module": "MAC Developing",
+    "crNo": ""
+  },
+  {
+    "id": "7b278c70-2275-4986-93b0-ebdf31d421ba",
+    "date": "31-10-2023",
+    "manhours": 1,
+    "task": "EKYC Development",
+    "module": "MAC Developing",
+    "crNo": ""
+  },
+  {
+    "id": "bfdebefb-c265-45de-9d71-109c606fab17",
+    "date": "01-11-2023",
+    "manhours": 7,
+    "task": "EKYC Development",
+    "module": "MAC Developing",
+    "crNo": ""
+  },
+  {
+    "id": "c6585327-f69b-4809-857d-d7ed2eff0a79",
+    "date": "02-11-2023",
+    "manhours": 7,
+    "task": "EKYC Development",
+    "module": "MAC Developing",
+    "crNo": ""
+  },
+  {
+    "id": "1fddb188-4310-4146-a988-0d6286786a85",
+    "date": "03-11-2023",
+    "manhours": 7,
+    "task": "EKYC Development",
+    "module": "MAC Developing",
+    "crNo": ""
+  },
+  {
+    "id": "dfc25e5e-0119-42e5-a3cd-229f89f0a453",
+    "date": "06-11-2023",
+    "manhours": 7,
+    "task": "EKYC Development",
+    "module": "MAC Developing",
+    "crNo": ""
+  },
+  {
+    "id": "386c3bed-99a3-48c3-9fac-2237fbd51c8b",
+    "date": "07-11-2023",
+    "manhours": 7,
+    "task": "EKYC Development",
+    "module": "MAC Developing",
+    "crNo": ""
+  },
+  {
+    "id": "fc52e509-e67a-4ca3-84f8-f79aebff2b2c",
+    "date": "08-11-2023",
+    "manhours": 7,
+    "task": "EKYC Development",
+    "module": "MAC Developing",
+    "crNo": ""
+  },
+  {
+    "id": "0d1dac35-ffac-4194-91b5-022eacf415fd",
+    "date": "09-11-2023",
+    "manhours": 7,
+    "task": "EKYC Development",
+    "module": "MAC Developing",
+    "crNo": ""
+  },
+  {
+    "id": "2bd29529-c05d-484a-ac40-ea51a5f9596a",
+    "date": "10-11-2023",
+    "manhours": 7,
+    "task": "EKYC Development",
+    "module": "MAC Developing",
+    "crNo": ""
+  },
+  {
+    "id": "c9dc8513-c504-4d86-a869-67c7efbf4d98",
+    "date": "13-11-2023",
+    "manhours": 8,
+    "task": "EKYC Development",
+    "module": "MAC Developing",
+    "crNo": ""
+  },
+  {
+    "id": "03d304dc-6fe8-424d-9513-41ea23013818",
+    "date": "14-11-2023",
+    "manhours": 8,
+    "task": "EKYC Development",
+    "module": "MAC Developing",
+    "crNo": ""
+  }
+]
